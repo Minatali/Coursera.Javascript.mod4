@@ -7,5 +7,4 @@
 	window.byeSpeaker = byeSpeaker;
 
 })(window);
-Footer
-© 2022 GitHub, Inc.
+
